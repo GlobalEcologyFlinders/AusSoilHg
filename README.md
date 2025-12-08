@@ -28,9 +28,9 @@ Schneider, L, P de Caritat, JR Taylor, OS Furman, SG Haberle, CJA Bradshaw. 2026
 
 ## <a href="data">Data</a>
 ### <a href="data/samplept">Sample point</a>
-- <em><a href="data/samplept/geochem.csv">geochem.csv</a></em>: geochemical data (available at time of publication)
-- <em><a href="data/samplept/field.csv">field.csv</a></em>: sample point characteristics (available at time of publication)
-- <em><a href="data/samplept/hgTSID.csv">hgTSID.csv</a></em>: re-analysed [Hg] estimates (ng/g) (available at time of publication)
+- <em><a href="data/samplept/geochem.csv">geochem.csv</a></em>: geochemical data
+- <em><a href="data/samplept/field.csv">field.csv</a></em>: sample point characteristics
+- <em><a href="data/samplept/hgTSID.csv">hgTSID.csv</a></em>: re-analysed [Hg] estimates (ng/g)
 - <em><a href="data/samplept/gs.csv">gs.csv</a></em>: grain-size category percentages
  
 ### <a href="data/spatial">Spatial</a>
