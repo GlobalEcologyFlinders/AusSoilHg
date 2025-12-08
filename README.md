@@ -20,6 +20,7 @@ Professor <a href="https://globalecologyflinders.com/people">Corey J. A. Bradsha
 
 ## Paper
 All scripts and data support the following paper:<br>
+<br>
 Schneider, L, P de Caritat, JR Taylor, OS Furman, SG Haberle, CJA Bradshaw. 2026. <a href="http://doi.org/10.1021/acs.est.5c11189">Predicting continental-scale soil mercury concentrations in Australia to refine global frameworks</a>. Environmental Science and Technology doi:10.1021/acs.est.5c11189
 
 ## Scripts
